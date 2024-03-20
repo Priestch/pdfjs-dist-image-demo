@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.11.2",
-    "pdfjs-dist": "^3",
+    "pdfjs-dist": "^3"
   }
 }
